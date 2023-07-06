@@ -2,5 +2,5 @@
 - 👀 I’m interested in software development and all about technology.
 - 🌱 I’m currently learning a lot of programing languages. My favorite it´s JavaScript 💌 
 - 💞️ I’m looking to collaborate on software open source. 
-- 📫 How to reach me, you can contact me via email ▶️ on david-m79@hotmail.com.
+- 📫 How to reach me, you can contact me via email ▶️ on dchavarria@uci.ac.cr
 - 💟 I really love coding, that is my entire life. 
