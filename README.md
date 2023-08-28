@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dchavarria@uci.ac.cr**
 
-- 📄 Know about my experiences [I love to work Software](I love to work Software)
+- 📄 Know about my experiences (I love to work Software) 🖥️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
